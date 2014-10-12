@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Testing github
+Playing around with github
